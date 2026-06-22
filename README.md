@@ -1,4 +1,4 @@
-+# Achievements
+# Achievements
 
 Kumpulan sertifikat dari kegiatan akademik dan non-akademik. Dipisah dari repo project supaya tiap repo project tetap fokus ke kode, sementara dokumentasi pencapaian terkumpul di satu tempat.
 
@@ -34,7 +34,9 @@ Diberikan oleh Perbanas Institute atas partisipasi sebagai peserta **Program Kre
 
 Diberikan sebagai peserta **Kuliah Umum** yang diselenggarakan oleh **BRI x Perbanas Institute** pada 12 Juni 2026 di Jakarta.
 
-[![Sertifikat Kuliah Umum BRI](certificates/kuliah-umum/kuliah-umum-bri-2026-preview.jpg)](certificates/kuliah-umum/kuliah-umum-bri-2026.pdf)
+[![Sertifikat Kuliah Umum BRI](certificates/kuliah-umum/kuliah-umum-bri-2026-1.png)](certificates/kuliah-umum/kuliah-umum-bri-2026.pdf)
+
+*Klik gambar untuk membuka versi PDF.*
 
 ---
 
@@ -42,7 +44,7 @@ Diberikan sebagai peserta **Kuliah Umum** yang diselenggarakan oleh **BRI x Perb
 
 Diberikan sebagai peserta **Pendidikan Dasar (DIKDAS) Fakultas Teknologi Informasi 2026** dengan tema *"Encouraging A Generation Of Wise and Responsible Digital Natives"*, dilaksanakan pada 30 Januari – 1 Februari 2026 di Wisma Tugu, Cisarua.
 
-[![Sertifikat DIKDAS 2026](certificates/pelatihan/dikdas-fti-2026-preview.jpg)](certificates/pelatihan/dikdas-fti-2026.pdf)
+![Sertifikat DIKDAS 2026](certificates/pelatihan/dikdas-fti-2026.png)
 
 ---
 
@@ -50,7 +52,7 @@ Diberikan sebagai peserta **Pendidikan Dasar (DIKDAS) Fakultas Teknologi Informa
 
 Diberikan sebagai peserta **Seminar Data Science Day 2025** yang diselenggarakan oleh **Himpunan Mahasiswa Sains Data (HIMASDA)** Perbanas Institute pada 20 November 2025 di Jakarta.
 
-[![Sertifikat Data Science Day 2025](certificates/seminar/data-science-day-2025-preview.jpg)](certificates/seminar/data-science-day-2025.pdf)
+![Sertifikat Data Science Day 2025](certificates/seminar/data-science-day-2025.png)
 
 ---
 
@@ -58,7 +60,7 @@ Diberikan sebagai peserta **Seminar Data Science Day 2025** yang diselenggarakan
 
 Diberikan sebagai peserta **Pelatihan Introduction to SQL** yang diselenggarakan oleh **Himpunan Mahasiswa Sistem Informasi (HIMSI)** Perbanas Institute pada 7 November 2025.
 
-[![Sertifikat Introduction to SQL](certificates/workshop/intro-sql-2025-preview.jpg)](certificates/workshop/intro-sql-2025.pdf)
+![Sertifikat Introduction to SQL](certificates/workshop/intro-sql-2025.png)
 
 ---
 
@@ -66,7 +68,7 @@ Diberikan sebagai peserta **Pelatihan Introduction to SQL** yang diselenggarakan
 
 Diberikan sebagai peserta seminar dalam acara **Technoupdate X HIMSI Tech and Creativity Competition (HIMPACT) 2025 UI/UX Design Competition** yang diselenggarakan oleh **HIMSI Perbanas Institute** pada 16 Oktober 2025.
 
-[![Sertifikat HIMPACT 2025](certificates/seminar/himpact-uiux-2025-preview.jpg)](certificates/seminar/himpact-uiux-2025.pdf)
+![Sertifikat HIMPACT 2025](certificates/seminar/himpact-uiux-2025.png)
 
 ---
 
@@ -74,6 +76,8 @@ Diberikan sebagai peserta seminar dalam acara **Technoupdate X HIMSI Tech and Cr
 
 Diberikan sebagai peserta **Workshop Sertifikasi Data Scientist** yang diselenggarakan oleh **Himpunan Mahasiswa Sains Data (HIMASDA)** Perbanas Institute pada 31 Oktober 2025 di Jakarta.
 
-[![Sertifikat Workshop Data Scientist](certificates/workshop/workshop-data-scientist-2025-preview.jpg)](certificates/workshop/workshop-data-scientist-2025.pdf)
+![Sertifikat Workshop Data Scientist](certificates/workshop/workshop-data-scientist-2025.png)
 
 ---
+
+
