@@ -8,7 +8,7 @@ Kumpulan sertifikat dari kegiatan akademik dan non-akademik. Dipisah dari repo p
 
 | No | Kegiatan | Penyelenggara | Tanggal | Kategori |
 |----|----------|---------------|---------|----------|
-| 01 | Lomba Program Kreativitas Mahasiswa (PKM) 2026 | Perbanas Institute | 13 Feb – 15 Apr 2026 | Akademik |
+| 01 | Lomba Program Kreativitas Mahasiswa (PKM) 2026 | Kemdiktisaintek | 13 Feb – 15 Apr 2026 | Akademik |
 | 02 | Kuliah Umum — Building Feature-Ready Talent for the Digital Banking Era | BRI x Perbanas Institute | 12 Jun 2026 | Kuliah Umum |
 | 03 | DIKDAS FTI 2026 — Encouraging A Generation Of Wise and Responsible Digital Natives | FTI Perbanas Institute | 30 Jan – 1 Feb 2026 | Pelatihan |
 | 04 | Seminar Data Science Day 2025 | HIMASDA Perbanas Institute | 20 Nov 2025 | Seminar |
